@@ -1,4 +1,4 @@
-# Bookworm
+# Bookworm 📚
 
 A beautiful SwiftUI reading list app built with Core Data, following Paul Hudson's tutorial series.
 
